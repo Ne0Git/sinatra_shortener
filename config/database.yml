@@ -1,0 +1,5 @@
+development:
+  adapter: 'mysql2'
+  database: 'sinatra_shortener_dev'
+  username: 'developer'
+  password: ''
